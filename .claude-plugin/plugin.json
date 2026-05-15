@@ -1,11 +1,12 @@
 {
   "name": "andie-codex",
-  "description": "Andie for GitHub Copilot and OpenAI Codex. Deep mode (expert engineering clarity), Drama mode (architecture debate panel), Triage mode (war strategy for engineering crises), Kaizen mode (find the waste, fix one thing). Works across GitHub Copilot Chat, OpenAI Custom GPT, and Claude Code.",
-  "version": "3.0.0",
+  "description": "Andie v4.0 for GitHub Copilot, OpenAI Custom GPT, and Claude Code. FeynTech mode (world-class expert explains with Feynman clarity) + Drama mode (expert panel debates to a conclusion). Full PRE-FLIGHT block: context capture, framework recommendation, team assembly, token budget, diagram tool selection.",
+  "version": "4.0.0",
   "author": {
-    "name": "Giggso Inc",
+    "name": "Giggso / AntiGravity Projects",
+    "email": "giggso.ravi@gmail.com",
     "url": "https://github.com/giggsoinc"
   },
   "homepage": "https://github.com/giggsoinc/andie-codex",
-  "keywords": ["ai", "copilot", "codex", "openai", "expert", "debate", "strategy", "kaizen", "engineering"]
+  "keywords": ["ai", "copilot", "codex", "openai", "expert", "debate", "feyntech", "drama", "preflight", "engineering"]
 }
